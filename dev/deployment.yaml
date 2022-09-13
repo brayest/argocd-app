@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: brayest23/argocd-poc:testtest3
+        image: 020663747723.dkr.ecr.us-east-1.amazonaws.com/gap-web:b285e7c432557378ce554928872ec82011e245c5
         ports:
         - containerPort: 80

@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: website
-        image: 020663747723.dkr.ecr.us-east-1.amazonaws.com/gap-web:cffa709c1d4bfa3c9a203848ea51c7a1cc638fa4
+        image: 020663747723.dkr.ecr.us-east-1.amazonaws.com/gap-web:da1f4449217a1b35f7f7382f3989cb54a1dd417f
         ports:
         - containerPort: 80
